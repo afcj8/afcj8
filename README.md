@@ -1,7 +1,7 @@
-### Olá! Eu sou o Antônio Junior👋
+## Olá! Eu sou o Antônio Junior👋
 
-- 🔭 Estou em busca da minha primeira colocação no mercado de trabalho
-- 🌱 Graduando em Análise e Desenvolvimento de Sistemas.
+- 🎓 Técnico em Administração e Eletrotécnica (IFRN - Campus João Câmara)
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas (IFRN - Campus Natal-Central)
 - 📫 Contate-me: contatoantoniojunior8@gmail.com
 - 😄 Pronomes: ele/dele
 
