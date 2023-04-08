@@ -1,5 +1,9 @@
 ## Olá, eu sou o Antônio Junior!
 
+Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Rio Grande do Norte (IFRN), onde busco aprofundar o meu conhecimento na área de desenvolvimento.
+
+##
+
 <div align="center">
   <a href="https://github.com/afcj8">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afcj8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
