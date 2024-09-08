@@ -8,8 +8,8 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas pelo Institut
 
 <div align="center">
   <a href="https://github.com/afcj8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afcj8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=afcj8&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afcj8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afcj8&layout=compact&langs_count=10&theme=dracula&locale=pt-br&border_radius=10"/>
 </div>
 
 <h2>⚡ Tecnologias</h2>
