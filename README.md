@@ -4,9 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/afcj8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afcj8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&rank_icon=github&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afcj8&layout=compact&langs_count=10&theme=dracula&locale=pt-br&border_radius=10&title_color=00bfbf&text_color=c9d1d9"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=afcj8&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=780&border_radius=10&title_color=00bfbf&text_color=c9d1d9&sideLabels=00bfbf&sideNums=00bfbf&border=EFEFEF&fire=00bfbf&currStreakNum=00bfbf&currStreakLabel=00bfbf&ring=00bfbf&stroke=EFEFEF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afcj8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&rank_icon=github&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&card_width=500"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afcj8&layout=compact&langs_count=10&theme=dracula&locale=pt-br&border_radius=10&title_color=00bfbf&text_color=c9d1d9&card_width=50"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=afcj8&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=760&border_radius=10&title_color=00bfbf&text_color=c9d1d9&sideLabels=00bfbf&sideNums=00bfbf&border=EFEFEF&fire=00bfbf&currStreakNum=00bfbf&currStreakLabel=00bfbf&ring=00bfbf&stroke=EFEFEF"/>
 </div>
 
 <br>
